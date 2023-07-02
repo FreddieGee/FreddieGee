@@ -3,23 +3,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Certificate in Cloud Based Data Science
+    institution: John Hopkins University
+    year: 2023
+  - course: Diploma in Project Management
+    institution: ALison
+    year: 2020
+  - course: ISO 9001:2015 Quality Management Systems
+    institution: Alison
+    year: 2020
 email: ""
-first_name: Alice
+first_name: Alfred
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Statistical Data Analysis
+- Machine Learning
 - Information Retrieval
-last_name: Wu
+last_name: Gagariga
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
@@ -33,7 +33,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/AdmiralGeneralAlfred
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -42,15 +42,15 @@ social:
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/alfred-gagariga
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Alfred Gagariga
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alfred Gagariga is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
